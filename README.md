@@ -1,6 +1,3 @@
-Autoencoder-ANN-
-
-
 MNIST Autoencoder
 This repository contains code for training and using an autoencoder to compress and reconstruct images from the MNIST dataset.
 
